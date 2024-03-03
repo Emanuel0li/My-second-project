@@ -77,14 +77,14 @@ button{
 
   text-transform: uppercase;
   font-family: "Open Sans", sans-serif;
-   margin-top: 40px; 
+  margin-top: 40px; 
   
   background: #69B99D;
   border: 0;
   padding: 14px 32px 15px;
-
-  align-items: center;
+  
   display: flex;
+  align-items: center;
   justify-content: center;
   gap: 10px;
   border-radius: 4px;
